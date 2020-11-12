@@ -5,6 +5,7 @@
 
 12-Nov-20  02:05 AM    <DIR>          .
 12-Nov-20  02:05 AM    <DIR>          ..
-12-Nov-20  02:05 AM                 0 test1.txt
+12-Nov-20  09:00 PM    <DIR>          .git
+12-Nov-20  09:04 PM                 0 test1.txt
                1 File(s)              0 bytes
-               2 Dir(s)  901,683,470,336 bytes free
+               3 Dir(s)  902,651,445,248 bytes free
