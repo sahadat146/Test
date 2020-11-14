@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CC25-21AF
+
+ Directory of C:\Users\blr-frontdesk-ptt\New folder\Gitt
+
+15-Nov-20  01:10 AM    <DIR>          .
+15-Nov-20  01:10 AM    <DIR>          ..
+15-Nov-20  12:56 AM    <DIR>          .git
+15-Nov-20  01:10 AM                 0 how1.txt
+15-Nov-20  12:46 AM               408 test1.txt
+15-Nov-20  12:46 AM               506 test3.txt
+15-Nov-20  12:46 AM               457 testt.txt
+               4 File(s)          1,371 bytes
+               3 Dir(s)  901,179,703,296 bytes free
